@@ -9,8 +9,9 @@
 /* Spare fonts */
 static char *font = "Ubuntu Mono:size=22";
 static char *font2[] = {
-/*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
-	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true",
+	// "Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true",
+	// "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true",
+	"Noto Color Emoji:pixelsize=18",
 };
 static int borderpx = 2;
 
